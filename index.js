@@ -1,4 +1,4 @@
-//Code made by ThioTech -  code at : https://replit.com/@mobileworld/Bot-js
+//Code made by ThioTech -  code at : https://replit.com/@mobileworld/Bot-JS
 // Import the discord.js module
 const Discord = require('discord.js');
 const {
